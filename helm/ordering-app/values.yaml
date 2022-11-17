@@ -1,6 +1,7 @@
 mongodb:
   architecture: replicaset
   auth:
+    username: root
     rootPassword: password123
 
 
